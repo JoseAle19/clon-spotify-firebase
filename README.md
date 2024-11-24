@@ -11,7 +11,7 @@ Este es un proyecto que replica las características principales de la popular p
 - **📂 Gestión de datos**: Integrado con **Cloud Firestore** para almacenar información de usuarios, listas de reproducción y canciones.
 - **📸 Carga de imágenes**: Soporte para cargar y almacenar portadas de álbumes y perfiles de usuario usando **Firebase Storage**.
 - **🔒 Autenticación**: Registro e inicio de sesión con **Firebase Authentication** para usuarios seguros y personalizados.
-- **🖤 Listas de reproducción**: Crea, edita y guarda tus playlists favoritas.
+- **🖤 Listas de reproducción**: Crea, edita y elimina tus canciones favoritas.
 
 ---
 
@@ -21,8 +21,10 @@ Este es un proyecto que replica las características principales de la popular p
 - **Backend y Servicios**: Firebase
   - **Firestore**: Para almacenamiento de datos en tiempo real.
   - **Storage**: Para imágenes y contenido multimedia.
-  - **Authentication**: Para autenticación de usuarios con correo electrónico y Google.
-- **State Management**: Provider o Riverpod (dependiendo de tu elección).
+  - **Authentication**: Para autenticación de usuarios con correo electrónico.
+- **State Management**: flutter_bloc
+- **Arquitectura**: Clean Architecture
+
 
 ---
 
@@ -53,6 +55,22 @@ Aquí puedes ver cómo luce la aplicación:
 
 
 ---
+
+
+## 📬 Contacto
+
+Si tienes dudas o sugerencias, no dudes en contactarme:
+
+- **Nombre**: José
+- **Correo**: josealejandroc22@gmail.com
+- **LinkedIn**: [Tu LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alejandro-cruz-p%C3%A9rez-34694123a)
+- **GitHub**: [Tu GitHub](https://github.com/joseAle19)
+- **Whatsapp**: [Whatsapp](+52 9631853517)
+
+---
+
+¡Gracias por visitar mi proyecto! 🎧✨
+
 
 ## 🔧 Instalación
 
