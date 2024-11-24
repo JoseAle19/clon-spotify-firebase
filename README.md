@@ -31,24 +31,24 @@ Este es un proyecto que replica las características principales de la popular p
 Aquí puedes ver cómo luce la aplicación:
 
 ### Pantalla de Inicio
-<img src="/images/1.jpg" alt="Pantalla de Inicio" width="400">
+<img src="/images/1.jpg" alt="Pantalla de Inicio" width="250">
 
 ### Pantalla de Opciones
-<img src="/images/2.jpg" alt="Pantalla de Opciones" width="400">
+<img src="/images/2.jpg" alt="Pantalla de Opciones" width="250">
 
 ### Pantalla de Inicio de Sesión
-<img src="/images/3.jpg" alt="Pantalla de Inicio de Sesión" width="400">
+<img src="/images/3.jpg" alt="Pantalla de Inicio de Sesión" width="250">
 
 ### Pantalla de Detalles de Canción
-<img src="/images/4.jpg" alt="Pantalla de Detalles de Canción" width="400">
+<img src="/images/4.jpg" alt="Pantalla de Detalles de Canción" width="250">
 
 ### Pantalla para Elegir Tema Claro
-<img src="/images/5.jpg" alt="Pantalla para Elegir Tema Claro" width="400">
+<img src="/images/5.jpg" alt="Pantalla para Elegir Tema Claro" width="250">
 
 ### Más
-<img src="/images/6.jpg" alt="Más" width="400">
-<img src="/images/7.jpg" alt="Más" width="400">
-<img src="/images/8.jpg" alt="Más" width="400">
+<img src="/images/6.jpg" alt="Más" width="250">
+<img src="/images/7.jpg" alt="Más" width="250">
+<img src="/images/8.jpg" alt="Más" width="250">
 
 
 
