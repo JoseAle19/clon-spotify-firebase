@@ -63,8 +63,8 @@ Si tienes dudas o sugerencias, no dudes en contactarme:
 
 - **Nombre**: José
 - **Correo**: josealejandroc22@gmail.com
-- **LinkedIn**: [Tu LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alejandro-cruz-p%C3%A9rez-34694123a)
-- **GitHub**: [Tu GitHub](https://github.com/joseAle19)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alejandro-cruz-p%C3%A9rez-34694123a)
+- **GitHub**: [GitHub](https://github.com/joseAle19)
 - **Whatsapp**: [Whatsapp](+52 9631853517)
 
 ---
